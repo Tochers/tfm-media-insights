@@ -1,0 +1,10 @@
+transformers
+accelerate
+torch
+sentencepiece
+bs4
+einops
+openai-whisper
+wordcloud
+pytube
+bitsandbytes
